@@ -4,7 +4,7 @@ int optimal(vector <int> arr){
     int n =arr.size();
     int el = arr[0];
     int count = 0;
-
+    //tc is the O(N)
     for(int i =0 ; i< n ; i++){
         if(el == arr[i]){
             count++;
