@@ -1,0 +1,7 @@
+two pint about function all containers use & for call by reference  array by default calls by reference
+two pointers method 
+
+swap method to swap two things 
+swap(it , it2);
+
+use & for string to pass by referece 
